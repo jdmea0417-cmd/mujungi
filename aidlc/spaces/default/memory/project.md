@@ -102,3 +102,6 @@
 - 화면은 새로 그리지 않고 화면 설계 v1.6을 유일한 원본으로 두어 화면 번호로 참조한다(대략 화면 Q1). (learned 2026-10-08) <!-- cid:261008-muzung-mvp:rough-mockups:26429501014ed5a1c50b806ce292c5ffdbbb8aa205b4315e9a50d91c16e6fbd8 -->
 - 문서가 서로 다르면 화면 설계 → 요구사항 → 기능명세서 → ADR_2S → 기술명세서 → AI 동작 명세 순으로 앞의 문서를 따른다. 화면·요구사항과 다른 ADR 내용은 따르지 않고 이후 단계에서 확인한다(팀 작업 방식 Q15). (learned 2026-10-08) <!-- cid:261008-muzung-mvp:practices-discovery:f3757ebf1974758929bc0f52e84a5daa9ad5c5403ffa5eece04e5740eba248b4 -->
 - 강한 규칙(Mandated/Forbidden)은 보안·개인정보 규칙만 두고, 기술 관례는 팀 작업 방식의 일반 관례로 둔다(팀 작업 방식 Q14). (learned 2026-10-08) <!-- cid:261008-muzung-mvp:practices-discovery:aa68325bf351d58dcaa532f8cea542193d0eb3b203244bd86dd9475e5a516cb3 -->
+- 요구사항 ID는 단계 안내의 `FR{n}` 대신 원문 ID(FR-A01, NFR-01 등)를 그대로 추적 키로 쓴다(요구사항 분석). (learned 2026-10-08) <!-- cid:261008-muzung-mvp:requirements-analysis:b813a6897be74b473cd0c93f4d67d44af90fd7e0b5baef4de93b2105a29846a7 -->
+- 질문은 요구사항 동작을 바꾸는 팀 결정 대기(TD) 항목과 목표값 없는 비기능 항목으로 한정하고, 기술명세서 §13의 값(⬜·🧪)은 해당 설계 단계에서 묻는다(요구사항 분석). (learned 2026-10-08) <!-- cid:261008-muzung-mvp:requirements-analysis:a853482e036ac18e4a97e4d3cdded03a90a12a5e357a3e2389045ec39791060b -->
+- 산출물은 요구사항 카드를 다시 옮겨 쓰지 않고 ID·우선순위·화면·한 줄 요약과 원본 카드 참조로 정리한다(요구사항 분석). (learned 2026-10-08) <!-- cid:261008-muzung-mvp:requirements-analysis:064c5e18e16cf9649722e6bd7b629de9622cf3f23b68c51f50c8b969e93f9ae0 -->
