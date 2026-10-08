@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a119ec-c6ba-78f4-9ccc-e41ab60ef14a",
+  "source": {
+    "kind": "managed",
+    "path": "documents/05_AI동작명세_v0.1.md"
+  },
+  "sha256": "27aecd7194ed35cd1ee7aaad6800bbcd5f0467173ad6e7a35359d60e5166c33f",
+  "bytes": 62608,
+  "indexed_at": "2026-10-08T05:11:50.163Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 32575,
+    "truncated": false,
+    "source_revision": "27aecd7194ed35cd1ee7aaad6800bbcd5f0467173ad6e7a35359d60e5166c33f"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a119ec-c6ba-78f4-9ccc-e41ab60ef14a/content.md",
+  "content_sha256": "27aecd7194ed35cd1ee7aaad6800bbcd5f0467173ad6e7a35359d60e5166c33f",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

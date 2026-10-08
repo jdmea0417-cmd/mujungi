@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "01a0fb8e-abd7-7d18-93ed-559ab7b60f98",
+  "source": {
+    "kind": "managed",
+    "path": "documents/무중_기능명세서_상세기능.md"
+  },
+  "sha256": "32493601053f844d69022ba6844f44a5207d7afbf86845a1767cfc3e31817e03",
+  "bytes": 86400,
+  "indexed_at": "2026-10-02T07:40:26.446Z",
+  "extraction": {
+    "state": "unsupported_type",
+    "detectedType": "removed"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "removed_at": "2026-10-08T05:11:50.163Z",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

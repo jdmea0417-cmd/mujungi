@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "01a0fb8e-abd8-7276-abfe-136013d66d66",
+  "source": {
+    "kind": "managed",
+    "path": "documents/사용자_시나리오_v0.4.md"
+  },
+  "sha256": "6d2c8979aecb096ca88468944de94b5ba5d4809a1f4b6d71c8c96976964ba21c",
+  "bytes": 22954,
+  "indexed_at": "2026-10-02T07:40:26.446Z",
+  "extraction": {
+    "state": "unsupported_type",
+    "detectedType": "removed"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "removed_at": "2026-10-08T05:11:50.163Z",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

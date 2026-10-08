@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a41-ddc5-789c-8f23-c64a9aa03c64",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/architecture/data-model.md"
+  },
+  "sha256": "46cc53ca1fe285b182dbc64eb424ba3a05f0bc21d1719af151d54b1bcebe830f",
+  "bytes": 81107,
+  "indexed_at": "2026-10-08T06:44:46.587Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 42027,
+    "truncated": false,
+    "source_revision": "46cc53ca1fe285b182dbc64eb424ba3a05f0bc21d1719af151d54b1bcebe830f"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a41-ddc5-789c-8f23-c64a9aa03c64/content.md",
+  "content_sha256": "46cc53ca1fe285b182dbc64eb424ba3a05f0bc21d1719af151d54b1bcebe830f",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

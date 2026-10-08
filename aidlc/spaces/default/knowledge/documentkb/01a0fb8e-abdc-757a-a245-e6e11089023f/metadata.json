@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "01a0fb8e-abdc-757a-a245-e6e11089023f",
+  "source": {
+    "kind": "managed",
+    "path": "documents/프로젝트_기획서_v1.0.md"
+  },
+  "sha256": "7b2d8fe7fff23576fb4c8ba11079697379aee9425f49d8a01d7c9e6446bfc9d7",
+  "bytes": 12976,
+  "indexed_at": "2026-10-02T07:40:26.446Z",
+  "extraction": {
+    "state": "unsupported_type",
+    "detectedType": "removed"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "removed_at": "2026-10-08T05:11:50.163Z",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

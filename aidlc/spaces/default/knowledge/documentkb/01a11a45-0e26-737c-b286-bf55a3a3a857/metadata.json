@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a45-0e26-737c-b286-bf55a3a3a857",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/ADR-011-judgment-engine.md"
+  },
+  "sha256": "5e533e18d3ac80e118472915c86ef219f50f0ad0d6695abdd912f4a620e5d01b",
+  "bytes": 42461,
+  "indexed_at": "2026-10-08T06:48:15.568Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 21328,
+    "truncated": false,
+    "source_revision": "5e533e18d3ac80e118472915c86ef219f50f0ad0d6695abdd912f4a620e5d01b"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a45-0e26-737c-b286-bf55a3a3a857/content.md",
+  "content_sha256": "5e533e18d3ac80e118472915c86ef219f50f0ad0d6695abdd912f4a620e5d01b",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

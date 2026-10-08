@@ -1,0 +1,788 @@
+{
+  "schema_version": 1,
+  "documents": [
+    {
+      "id": "01a0fb8e-abd4-7004-bc2b-c12d2db5b451",
+      "source": {
+        "kind": "managed",
+        "path": "documents/기술명세서_v1.1.md"
+      },
+      "sha256": "c4d28f50dd3355e95dd106a87f8294e222749abd7ee6931366bf269481334233",
+      "bytes": 44296,
+      "indexed_at": "2026-10-02T07:40:26.446Z",
+      "extraction": {
+        "state": "unsupported_type",
+        "detectedType": "removed"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "removed_at": "2026-10-08T05:11:50.163Z"
+    },
+    {
+      "id": "01a0fb8e-abd7-7d18-93ed-559ab7b60f98",
+      "source": {
+        "kind": "managed",
+        "path": "documents/무중_기능명세서_상세기능.md"
+      },
+      "sha256": "32493601053f844d69022ba6844f44a5207d7afbf86845a1767cfc3e31817e03",
+      "bytes": 86400,
+      "indexed_at": "2026-10-02T07:40:26.446Z",
+      "extraction": {
+        "state": "unsupported_type",
+        "detectedType": "removed"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "removed_at": "2026-10-08T05:11:50.163Z"
+    },
+    {
+      "id": "01a0fb8e-abd8-7276-abfe-136013d66d66",
+      "source": {
+        "kind": "managed",
+        "path": "documents/사용자_시나리오_v0.4.md"
+      },
+      "sha256": "6d2c8979aecb096ca88468944de94b5ba5d4809a1f4b6d71c8c96976964ba21c",
+      "bytes": 22954,
+      "indexed_at": "2026-10-02T07:40:26.446Z",
+      "extraction": {
+        "state": "unsupported_type",
+        "detectedType": "removed"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "removed_at": "2026-10-08T05:11:50.163Z"
+    },
+    {
+      "id": "01a0fb8e-abd9-7d37-b75a-cef509345904",
+      "source": {
+        "kind": "managed",
+        "path": "documents/온톨로지_스키마_서비스용.md"
+      },
+      "sha256": "8f293da91100268faef04ac81733f65b5b3561de79f508f8e21e89f2fb4f4b30",
+      "bytes": 9452,
+      "indexed_at": "2026-10-02T07:40:26.446Z",
+      "extraction": {
+        "state": "unsupported_type",
+        "detectedType": "removed"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "removed_at": "2026-10-08T05:11:50.163Z"
+    },
+    {
+      "id": "01a0fb8e-abdb-7c9a-a7fe-cfb6b12ef4ea",
+      "source": {
+        "kind": "managed",
+        "path": "documents/요구사항 입출력 명세 v1.0.md:Zone.Identifier"
+      },
+      "sha256": "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe",
+      "bytes": 25,
+      "indexed_at": "2026-10-02T07:40:26.446Z",
+      "extraction": {
+        "state": "unsupported_type",
+        "detectedType": "removed"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "removed_at": "2026-10-02T07:43:45.739Z"
+    },
+    {
+      "id": "01a0fb8e-abdc-757a-a245-e6e11089023f",
+      "source": {
+        "kind": "managed",
+        "path": "documents/프로젝트_기획서_v1.0.md"
+      },
+      "sha256": "7b2d8fe7fff23576fb4c8ba11079697379aee9425f49d8a01d7c9e6446bfc9d7",
+      "bytes": 12976,
+      "indexed_at": "2026-10-02T07:40:26.446Z",
+      "extraction": {
+        "state": "unsupported_type",
+        "detectedType": "removed"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "removed_at": "2026-10-08T05:11:50.163Z"
+    },
+    {
+      "id": "01a119ec-c6a7-7596-bc1f-c43bc3206e02",
+      "source": {
+        "kind": "managed",
+        "path": "documents/00_문서_안내.md"
+      },
+      "sha256": "3465a1c3dfe548533ccdd903e2f620f6c5292f24ce2ccccaa1878a18c29611ea",
+      "bytes": 7916,
+      "indexed_at": "2026-10-08T05:11:50.163Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 4353,
+        "truncated": false,
+        "source_revision": "3465a1c3dfe548533ccdd903e2f620f6c5292f24ce2ccccaa1878a18c29611ea"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a119ec-c6a7-7596-bc1f-c43bc3206e02/content.md",
+      "content_sha256": "3465a1c3dfe548533ccdd903e2f620f6c5292f24ce2ccccaa1878a18c29611ea"
+    },
+    {
+      "id": "01a119ec-c6aa-78f8-9da2-c17f9f138378",
+      "source": {
+        "kind": "managed",
+        "path": "documents/01_화면설계_v1.6.md"
+      },
+      "sha256": "b540d878fc037edb9f1a12c899f867720e19599b3925ef2f8467861b5e1f49d0",
+      "bytes": 61361,
+      "indexed_at": "2026-10-08T05:11:50.163Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 31832,
+        "truncated": false,
+        "source_revision": "b540d878fc037edb9f1a12c899f867720e19599b3925ef2f8467861b5e1f49d0"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a119ec-c6aa-78f8-9da2-c17f9f138378/content.md",
+      "content_sha256": "b540d878fc037edb9f1a12c899f867720e19599b3925ef2f8467861b5e1f49d0"
+    },
+    {
+      "id": "01a119ec-c6af-79b1-8052-213fb6aecc42",
+      "source": {
+        "kind": "managed",
+        "path": "documents/02_요구사항_입출력명세_v1.4.md"
+      },
+      "sha256": "6c7d7088b709862200e8904298c300b231c5d86f23d99a39a792d52852f85639",
+      "bytes": 206991,
+      "indexed_at": "2026-10-08T05:11:50.163Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 104856,
+        "truncated": false,
+        "source_revision": "6c7d7088b709862200e8904298c300b231c5d86f23d99a39a792d52852f85639"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a119ec-c6af-79b1-8052-213fb6aecc42/content.md",
+      "content_sha256": "6c7d7088b709862200e8904298c300b231c5d86f23d99a39a792d52852f85639"
+    },
+    {
+      "id": "01a119ec-c6b4-7248-bad5-bb145d0d2bd1",
+      "source": {
+        "kind": "managed",
+        "path": "documents/03_기능명세서_v1.3.md"
+      },
+      "sha256": "71df0c9042a38ad4640750343360b93619bc197b215db7c236aef2b06d8d2af0",
+      "bytes": 198953,
+      "indexed_at": "2026-10-08T05:11:50.163Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 103713,
+        "truncated": false,
+        "source_revision": "71df0c9042a38ad4640750343360b93619bc197b215db7c236aef2b06d8d2af0"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a119ec-c6b4-7248-bad5-bb145d0d2bd1/content.md",
+      "content_sha256": "71df0c9042a38ad4640750343360b93619bc197b215db7c236aef2b06d8d2af0"
+    },
+    {
+      "id": "01a119ec-c6b7-72ce-8c6c-ab50f1b0a186",
+      "source": {
+        "kind": "managed",
+        "path": "documents/04_기술명세서_v0.2.md"
+      },
+      "sha256": "1962554c813830c05faf5fa165b62137e68a19cad4918c8f422f91fb3b9b81e8",
+      "bytes": 90472,
+      "indexed_at": "2026-10-08T05:11:50.163Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 52514,
+        "truncated": false,
+        "source_revision": "1962554c813830c05faf5fa165b62137e68a19cad4918c8f422f91fb3b9b81e8"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a119ec-c6b7-72ce-8c6c-ab50f1b0a186/content.md",
+      "content_sha256": "1962554c813830c05faf5fa165b62137e68a19cad4918c8f422f91fb3b9b81e8"
+    },
+    {
+      "id": "01a119ec-c6ba-78f4-9ccc-e41ab60ef14a",
+      "source": {
+        "kind": "managed",
+        "path": "documents/05_AI동작명세_v0.1.md"
+      },
+      "sha256": "27aecd7194ed35cd1ee7aaad6800bbcd5f0467173ad6e7a35359d60e5166c33f",
+      "bytes": 62608,
+      "indexed_at": "2026-10-08T05:11:50.163Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 32575,
+        "truncated": false,
+        "source_revision": "27aecd7194ed35cd1ee7aaad6800bbcd5f0467173ad6e7a35359d60e5166c33f"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a119ec-c6ba-78f4-9ccc-e41ab60ef14a/content.md",
+      "content_sha256": "27aecd7194ed35cd1ee7aaad6800bbcd5f0467173ad6e7a35359d60e5166c33f"
+    },
+    {
+      "id": "01a11a41-dda2-7dbb-b106-db5d8ae5e748",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-001-repository-git.md"
+      },
+      "sha256": "b1be39aee632d948db4dcdaf55f2f7cc17cf16d1ca7b1ba2854c20f95de5f3b4",
+      "bytes": 7631,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 4127,
+        "truncated": false,
+        "source_revision": "b1be39aee632d948db4dcdaf55f2f7cc17cf16d1ca7b1ba2854c20f95de5f3b4"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-dda2-7dbb-b106-db5d8ae5e748/content.md",
+      "content_sha256": "b1be39aee632d948db4dcdaf55f2f7cc17cf16d1ca7b1ba2854c20f95de5f3b4"
+    },
+    {
+      "id": "01a11a41-dda4-7e12-8adf-9670d8cd2a30",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-002-technology-defaults.md"
+      },
+      "sha256": "8602f526a8ecc197d6ce403009600d521eb1d3f3249730d90af9735bafda140a",
+      "bytes": 37539,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 19859,
+        "truncated": false,
+        "source_revision": "8602f526a8ecc197d6ce403009600d521eb1d3f3249730d90af9735bafda140a"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-dda4-7e12-8adf-9670d8cd2a30/content.md",
+      "content_sha256": "8602f526a8ecc197d6ce403009600d521eb1d3f3249730d90af9735bafda140a"
+    },
+    {
+      "id": "01a11a41-dda5-7069-b41f-20ae5bdbc188",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-003-child-device-ui.md"
+      },
+      "sha256": "321eed2ad38034c9c0b9c4209b09867dcedced953ad872fc31a9fe46c0318f44",
+      "bytes": 26041,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 12437,
+        "truncated": false,
+        "source_revision": "321eed2ad38034c9c0b9c4209b09867dcedced953ad872fc31a9fe46c0318f44"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-dda5-7069-b41f-20ae5bdbc188/content.md",
+      "content_sha256": "321eed2ad38034c9c0b9c4209b09867dcedced953ad872fc31a9fe46c0318f44"
+    },
+    {
+      "id": "01a11a41-dda6-7d62-9784-4ba98d36d2d7",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-004-communication-voice.md"
+      },
+      "sha256": "c856e24a5aad7bf36ec2f9766f8390779722a032e8768615c6d336b0d4d5543d",
+      "bytes": 50112,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 25247,
+        "truncated": false,
+        "source_revision": "c856e24a5aad7bf36ec2f9766f8390779722a032e8768615c6d336b0d4d5543d"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-dda6-7d62-9784-4ba98d36d2d7/content.md",
+      "content_sha256": "c856e24a5aad7bf36ec2f9766f8390779722a032e8768615c6d336b0d4d5543d"
+    },
+    {
+      "id": "01a11a41-dda7-773b-afba-7e108d9ca0e3",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-005-session-events-timeouts.md"
+      },
+      "sha256": "5c1ca828d641b3f6c32e4ec4869d9b278a5e7611d8d7bc308896d754ca4243af",
+      "bytes": 47685,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 26048,
+        "truncated": false,
+        "source_revision": "5c1ca828d641b3f6c32e4ec4869d9b278a5e7611d8d7bc308896d754ca4243af"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-dda7-773b-afba-7e108d9ca0e3/content.md",
+      "content_sha256": "5c1ca828d641b3f6c32e4ec4869d9b278a5e7611d8d7bc308896d754ca4243af"
+    },
+    {
+      "id": "01a11a41-dda9-7f28-8bea-545fdfd0b7dc",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-006-demo-deployment.md"
+      },
+      "sha256": "be327635dda25c1bddcd3eb166ff10824019d499b8f16c603577f06556650514",
+      "bytes": 56763,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 32114,
+        "truncated": false,
+        "source_revision": "be327635dda25c1bddcd3eb166ff10824019d499b8f16c603577f06556650514"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-dda9-7f28-8bea-545fdfd0b7dc/content.md",
+      "content_sha256": "be327635dda25c1bddcd3eb166ff10824019d499b8f16c603577f06556650514"
+    },
+    {
+      "id": "01a11a41-ddbb-743c-a04b-a182537e64fe",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-007-module-boundaries.md"
+      },
+      "sha256": "9950499eb0f9fd3de06030b14e5bc76419e1a5c44bde26ac3bf8feb2cc753244",
+      "bytes": 88295,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 50565,
+        "truncated": false,
+        "source_revision": "9950499eb0f9fd3de06030b14e5bc76419e1a5c44bde26ac3bf8feb2cc753244"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddbb-743c-a04b-a182537e64fe/content.md",
+      "content_sha256": "9950499eb0f9fd3de06030b14e5bc76419e1a5c44bde26ac3bf8feb2cc753244"
+    },
+    {
+      "id": "01a11a41-ddbd-7169-be14-d201d519a3e6",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-008-auth-access-control.md"
+      },
+      "sha256": "f450ed059bd9eef2cffb69e634b23058969b43a925bce9d6d09c779e4b7109a7",
+      "bytes": 45147,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 23744,
+        "truncated": false,
+        "source_revision": "f450ed059bd9eef2cffb69e634b23058969b43a925bce9d6d09c779e4b7109a7"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddbd-7169-be14-d201d519a3e6/content.md",
+      "content_sha256": "f450ed059bd9eef2cffb69e634b23058969b43a925bce9d6d09c779e4b7109a7"
+    },
+    {
+      "id": "01a11a41-ddbe-73ed-ad00-09af13a746d6",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-009-execution-boundary.md"
+      },
+      "sha256": "624e6c19345da87f7a11a704221fdb9e59fa7598a409b181d2732458d3e20b84",
+      "bytes": 34858,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 17944,
+        "truncated": false,
+        "source_revision": "624e6c19345da87f7a11a704221fdb9e59fa7598a409b181d2732458d3e20b84"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddbe-73ed-ad00-09af13a746d6/content.md",
+      "content_sha256": "624e6c19345da87f7a11a704221fdb9e59fa7598a409b181d2732458d3e20b84"
+    },
+    {
+      "id": "01a11a41-ddc0-73f4-a5c2-be2831d0bc10",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-010-durable-delivery.md"
+      },
+      "sha256": "22461a5a398c963130e157e989244d309edee6e1c2f2f1afcec43d2282f74b7c",
+      "bytes": 31056,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 15593,
+        "truncated": false,
+        "source_revision": "22461a5a398c963130e157e989244d309edee6e1c2f2f1afcec43d2282f74b7c"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddc0-73f4-a5c2-be2831d0bc10/content.md",
+      "content_sha256": "22461a5a398c963130e157e989244d309edee6e1c2f2f1afcec43d2282f74b7c"
+    },
+    {
+      "id": "01a11a41-ddc1-7f64-9f64-0c215a05447a",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/README.md"
+      },
+      "sha256": "b9bcfc13564cd714c353b27a58ec2d277fdae6f5a2ba7b7930292f33d3a44a75",
+      "bytes": 26185,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 15075,
+        "truncated": false,
+        "source_revision": "b9bcfc13564cd714c353b27a58ec2d277fdae6f5a2ba7b7930292f33d3a44a75"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddc1-7f64-9f64-0c215a05447a/content.md",
+      "content_sha256": "b9bcfc13564cd714c353b27a58ec2d277fdae6f5a2ba7b7930292f33d3a44a75"
+    },
+    {
+      "id": "01a11a41-ddc3-7460-b9db-2755f9c875f9",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/architecture/auth.md"
+      },
+      "sha256": "437a899ec087a9fcc0cd26762b5d9f62e3d1417796f0bf7f25f1ec56a13ef60a",
+      "bytes": 38784,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 21565,
+        "truncated": false,
+        "source_revision": "437a899ec087a9fcc0cd26762b5d9f62e3d1417796f0bf7f25f1ec56a13ef60a"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddc3-7460-b9db-2755f9c875f9/content.md",
+      "content_sha256": "437a899ec087a9fcc0cd26762b5d9f62e3d1417796f0bf7f25f1ec56a13ef60a"
+    },
+    {
+      "id": "01a11a41-ddc5-789c-8f23-c64a9aa03c64",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/architecture/data-model.md"
+      },
+      "sha256": "46cc53ca1fe285b182dbc64eb424ba3a05f0bc21d1719af151d54b1bcebe830f",
+      "bytes": 81107,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 42027,
+        "truncated": false,
+        "source_revision": "46cc53ca1fe285b182dbc64eb424ba3a05f0bc21d1719af151d54b1bcebe830f"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddc5-789c-8f23-c64a9aa03c64/content.md",
+      "content_sha256": "46cc53ca1fe285b182dbc64eb424ba3a05f0bc21d1719af151d54b1bcebe830f"
+    },
+    {
+      "id": "01a11a41-ddc8-7026-8c0d-2bac1bd17841",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/architecture/first-bolt.md"
+      },
+      "sha256": "75a4f9d504c9a9988e10532000575014b9963fa4e6eefd2fbb0f7c875ded42ef",
+      "bytes": 61877,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 31885,
+        "truncated": false,
+        "source_revision": "75a4f9d504c9a9988e10532000575014b9963fa4e6eefd2fbb0f7c875ded42ef"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddc8-7026-8c0d-2bac1bd17841/content.md",
+      "content_sha256": "75a4f9d504c9a9988e10532000575014b9963fa4e6eefd2fbb0f7c875ded42ef"
+    },
+    {
+      "id": "01a11a41-ddca-7d41-ad86-7f30634abd8d",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/architecture/protocol.md"
+      },
+      "sha256": "188a478b6558741f32e7fe321546ef370410b09bb005a4f3c9202ab1859bb247",
+      "bytes": 66622,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 34447,
+        "truncated": false,
+        "source_revision": "188a478b6558741f32e7fe321546ef370410b09bb005a4f3c9202ab1859bb247"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddca-7d41-ad86-7f30634abd8d/content.md",
+      "content_sha256": "188a478b6558741f32e7fe321546ef370410b09bb005a4f3c9202ab1859bb247"
+    },
+    {
+      "id": "01a11a41-ddcc-731f-9ddc-57fbbfcb7f65",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/architecture/result-pipeline.md"
+      },
+      "sha256": "6535f5a2d926ad04bd33a1ec6fafd6c8856b8f29fcd03fd76e1a5978521cb9b8",
+      "bytes": 54731,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 27758,
+        "truncated": false,
+        "source_revision": "6535f5a2d926ad04bd33a1ec6fafd6c8856b8f29fcd03fd76e1a5978521cb9b8"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddcc-731f-9ddc-57fbbfcb7f65/content.md",
+      "content_sha256": "6535f5a2d926ad04bd33a1ec6fafd6c8856b8f29fcd03fd76e1a5978521cb9b8"
+    },
+    {
+      "id": "01a11a41-ddcd-7b9c-af8f-1980a5925c68",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/architecture/sequences.md"
+      },
+      "sha256": "e32d95ccc08ba2066804ab4d5850f9f3674f0592da212849c71c4076e297a358",
+      "bytes": 68117,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 36959,
+        "truncated": false,
+        "source_revision": "e32d95ccc08ba2066804ab4d5850f9f3674f0592da212849c71c4076e297a358"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddcd-7b9c-af8f-1980a5925c68/content.md",
+      "content_sha256": "e32d95ccc08ba2066804ab4d5850f9f3674f0592da212849c71c4076e297a358"
+    },
+    {
+      "id": "01a11a41-ddcf-7788-9d38-3c0587ab67d1",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/architecture/session-state.md"
+      },
+      "sha256": "73db49ea965690332d1c3e65144eb9222caddcba991c8fc9d503fe3239933b6b",
+      "bytes": 36561,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 18358,
+        "truncated": false,
+        "source_revision": "73db49ea965690332d1c3e65144eb9222caddcba991c8fc9d503fe3239933b6b"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddcf-7788-9d38-3c0587ab67d1/content.md",
+      "content_sha256": "73db49ea965690332d1c3e65144eb9222caddcba991c8fc9d503fe3239933b6b"
+    },
+    {
+      "id": "01a11a41-ddd1-7b05-a6ea-2777e06c923d",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/architecture/system-architecture.md"
+      },
+      "sha256": "67f78b711410fb50f965a10bfcd8176463584cdffc8c75debf1a4ec71165ac3e",
+      "bytes": 55923,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 30528,
+        "truncated": false,
+        "source_revision": "67f78b711410fb50f965a10bfcd8176463584cdffc8c75debf1a4ec71165ac3e"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddd1-7b05-a6ea-2777e06c923d/content.md",
+      "content_sha256": "67f78b711410fb50f965a10bfcd8176463584cdffc8c75debf1a4ec71165ac3e"
+    },
+    {
+      "id": "01a11a41-ddd2-78af-8b50-8fee34ab8a40",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/decision-log.md"
+      },
+      "sha256": "f2da7985bc82e7a7ce70f39ef0b92be9ac04a780197457c723facdff3b9d266a",
+      "bytes": 48913,
+      "indexed_at": "2026-10-08T06:44:46.587Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 27856,
+        "truncated": false,
+        "source_revision": "f2da7985bc82e7a7ce70f39ef0b92be9ac04a780197457c723facdff3b9d266a"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a41-ddd2-78af-8b50-8fee34ab8a40/content.md",
+      "content_sha256": "f2da7985bc82e7a7ce70f39ef0b92be9ac04a780197457c723facdff3b9d266a"
+    },
+    {
+      "id": "01a11a45-0e26-737c-b286-bf55a3a3a857",
+      "source": {
+        "kind": "managed",
+        "path": "documents/ADR_2S/ADR-011-judgment-engine.md"
+      },
+      "sha256": "5e533e18d3ac80e118472915c86ef219f50f0ad0d6695abdd912f4a620e5d01b",
+      "bytes": 42461,
+      "indexed_at": "2026-10-08T06:48:15.568Z",
+      "extraction": {
+        "state": "extracted",
+        "extractor": {
+          "name": "builtin-text",
+          "version": "1"
+        },
+        "chars": 21328,
+        "truncated": false,
+        "source_revision": "5e533e18d3ac80e118472915c86ef219f50f0ad0d6695abdd912f4a620e5d01b"
+      },
+      "summary": {
+        "state": "absent"
+      },
+      "content": "documentkb/01a11a45-0e26-737c-b286-bf55a3a3a857/content.md",
+      "content_sha256": "5e533e18d3ac80e118472915c86ef219f50f0ad0d6695abdd912f4a620e5d01b"
+    }
+  ]
+}

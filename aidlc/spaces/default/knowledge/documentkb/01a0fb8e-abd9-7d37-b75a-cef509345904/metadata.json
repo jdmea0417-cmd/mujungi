@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "01a0fb8e-abd9-7d37-b75a-cef509345904",
+  "source": {
+    "kind": "managed",
+    "path": "documents/온톨로지_스키마_서비스용.md"
+  },
+  "sha256": "8f293da91100268faef04ac81733f65b5b3561de79f508f8e21e89f2fb4f4b30",
+  "bytes": 9452,
+  "indexed_at": "2026-10-02T07:40:26.446Z",
+  "extraction": {
+    "state": "unsupported_type",
+    "detectedType": "removed"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "removed_at": "2026-10-08T05:11:50.163Z",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

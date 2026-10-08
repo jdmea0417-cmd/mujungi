@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a41-dda5-7069-b41f-20ae5bdbc188",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/ADR-003-child-device-ui.md"
+  },
+  "sha256": "321eed2ad38034c9c0b9c4209b09867dcedced953ad872fc31a9fe46c0318f44",
+  "bytes": 26041,
+  "indexed_at": "2026-10-08T06:44:46.587Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 12437,
+    "truncated": false,
+    "source_revision": "321eed2ad38034c9c0b9c4209b09867dcedced953ad872fc31a9fe46c0318f44"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a41-dda5-7069-b41f-20ae5bdbc188/content.md",
+  "content_sha256": "321eed2ad38034c9c0b9c4209b09867dcedced953ad872fc31a9fe46c0318f44",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

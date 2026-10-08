@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a41-dda7-773b-afba-7e108d9ca0e3",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/ADR-005-session-events-timeouts.md"
+  },
+  "sha256": "5c1ca828d641b3f6c32e4ec4869d9b278a5e7611d8d7bc308896d754ca4243af",
+  "bytes": 47685,
+  "indexed_at": "2026-10-08T06:44:46.587Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 26048,
+    "truncated": false,
+    "source_revision": "5c1ca828d641b3f6c32e4ec4869d9b278a5e7611d8d7bc308896d754ca4243af"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a41-dda7-773b-afba-7e108d9ca0e3/content.md",
+  "content_sha256": "5c1ca828d641b3f6c32e4ec4869d9b278a5e7611d8d7bc308896d754ca4243af",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

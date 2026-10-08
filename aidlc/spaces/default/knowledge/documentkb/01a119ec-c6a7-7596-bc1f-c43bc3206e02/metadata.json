@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a119ec-c6a7-7596-bc1f-c43bc3206e02",
+  "source": {
+    "kind": "managed",
+    "path": "documents/00_문서_안내.md"
+  },
+  "sha256": "3465a1c3dfe548533ccdd903e2f620f6c5292f24ce2ccccaa1878a18c29611ea",
+  "bytes": 7916,
+  "indexed_at": "2026-10-08T05:11:50.163Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 4353,
+    "truncated": false,
+    "source_revision": "3465a1c3dfe548533ccdd903e2f620f6c5292f24ce2ccccaa1878a18c29611ea"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a119ec-c6a7-7596-bc1f-c43bc3206e02/content.md",
+  "content_sha256": "3465a1c3dfe548533ccdd903e2f620f6c5292f24ce2ccccaa1878a18c29611ea",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

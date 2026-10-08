@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a119ec-c6aa-78f8-9da2-c17f9f138378",
+  "source": {
+    "kind": "managed",
+    "path": "documents/01_화면설계_v1.6.md"
+  },
+  "sha256": "b540d878fc037edb9f1a12c899f867720e19599b3925ef2f8467861b5e1f49d0",
+  "bytes": 61361,
+  "indexed_at": "2026-10-08T05:11:50.163Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 31832,
+    "truncated": false,
+    "source_revision": "b540d878fc037edb9f1a12c899f867720e19599b3925ef2f8467861b5e1f49d0"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a119ec-c6aa-78f8-9da2-c17f9f138378/content.md",
+  "content_sha256": "b540d878fc037edb9f1a12c899f867720e19599b3925ef2f8467861b5e1f49d0",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

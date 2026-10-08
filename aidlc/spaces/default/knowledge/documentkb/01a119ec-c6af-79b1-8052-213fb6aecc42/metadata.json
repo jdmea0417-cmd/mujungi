@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a119ec-c6af-79b1-8052-213fb6aecc42",
+  "source": {
+    "kind": "managed",
+    "path": "documents/02_요구사항_입출력명세_v1.4.md"
+  },
+  "sha256": "6c7d7088b709862200e8904298c300b231c5d86f23d99a39a792d52852f85639",
+  "bytes": 206991,
+  "indexed_at": "2026-10-08T05:11:50.163Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 104856,
+    "truncated": false,
+    "source_revision": "6c7d7088b709862200e8904298c300b231c5d86f23d99a39a792d52852f85639"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a119ec-c6af-79b1-8052-213fb6aecc42/content.md",
+  "content_sha256": "6c7d7088b709862200e8904298c300b231c5d86f23d99a39a792d52852f85639",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

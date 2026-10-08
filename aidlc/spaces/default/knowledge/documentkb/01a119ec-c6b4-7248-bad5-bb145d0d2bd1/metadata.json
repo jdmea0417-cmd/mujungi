@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a119ec-c6b4-7248-bad5-bb145d0d2bd1",
+  "source": {
+    "kind": "managed",
+    "path": "documents/03_기능명세서_v1.3.md"
+  },
+  "sha256": "71df0c9042a38ad4640750343360b93619bc197b215db7c236aef2b06d8d2af0",
+  "bytes": 198953,
+  "indexed_at": "2026-10-08T05:11:50.163Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 103713,
+    "truncated": false,
+    "source_revision": "71df0c9042a38ad4640750343360b93619bc197b215db7c236aef2b06d8d2af0"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a119ec-c6b4-7248-bad5-bb145d0d2bd1/content.md",
+  "content_sha256": "71df0c9042a38ad4640750343360b93619bc197b215db7c236aef2b06d8d2af0",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

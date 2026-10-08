@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a41-ddca-7d41-ad86-7f30634abd8d",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/architecture/protocol.md"
+  },
+  "sha256": "188a478b6558741f32e7fe321546ef370410b09bb005a4f3c9202ab1859bb247",
+  "bytes": 66622,
+  "indexed_at": "2026-10-08T06:44:46.587Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 34447,
+    "truncated": false,
+    "source_revision": "188a478b6558741f32e7fe321546ef370410b09bb005a4f3c9202ab1859bb247"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a41-ddca-7d41-ad86-7f30634abd8d/content.md",
+  "content_sha256": "188a478b6558741f32e7fe321546ef370410b09bb005a4f3c9202ab1859bb247",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

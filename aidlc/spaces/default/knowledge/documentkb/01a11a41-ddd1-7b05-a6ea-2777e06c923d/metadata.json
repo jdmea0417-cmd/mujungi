@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a41-ddd1-7b05-a6ea-2777e06c923d",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/architecture/system-architecture.md"
+  },
+  "sha256": "67f78b711410fb50f965a10bfcd8176463584cdffc8c75debf1a4ec71165ac3e",
+  "bytes": 55923,
+  "indexed_at": "2026-10-08T06:44:46.587Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 30528,
+    "truncated": false,
+    "source_revision": "67f78b711410fb50f965a10bfcd8176463584cdffc8c75debf1a4ec71165ac3e"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a41-ddd1-7b05-a6ea-2777e06c923d/content.md",
+  "content_sha256": "67f78b711410fb50f965a10bfcd8176463584cdffc8c75debf1a4ec71165ac3e",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

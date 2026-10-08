@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a41-ddcc-731f-9ddc-57fbbfcb7f65",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/architecture/result-pipeline.md"
+  },
+  "sha256": "6535f5a2d926ad04bd33a1ec6fafd6c8856b8f29fcd03fd76e1a5978521cb9b8",
+  "bytes": 54731,
+  "indexed_at": "2026-10-08T06:44:46.587Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 27758,
+    "truncated": false,
+    "source_revision": "6535f5a2d926ad04bd33a1ec6fafd6c8856b8f29fcd03fd76e1a5978521cb9b8"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a41-ddcc-731f-9ddc-57fbbfcb7f65/content.md",
+  "content_sha256": "6535f5a2d926ad04bd33a1ec6fafd6c8856b8f29fcd03fd76e1a5978521cb9b8",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a119ec-c6b7-72ce-8c6c-ab50f1b0a186",
+  "source": {
+    "kind": "managed",
+    "path": "documents/04_기술명세서_v0.2.md"
+  },
+  "sha256": "1962554c813830c05faf5fa165b62137e68a19cad4918c8f422f91fb3b9b81e8",
+  "bytes": 90472,
+  "indexed_at": "2026-10-08T05:11:50.163Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 52514,
+    "truncated": false,
+    "source_revision": "1962554c813830c05faf5fa165b62137e68a19cad4918c8f422f91fb3b9b81e8"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a119ec-c6b7-72ce-8c6c-ab50f1b0a186/content.md",
+  "content_sha256": "1962554c813830c05faf5fa165b62137e68a19cad4918c8f422f91fb3b9b81e8",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

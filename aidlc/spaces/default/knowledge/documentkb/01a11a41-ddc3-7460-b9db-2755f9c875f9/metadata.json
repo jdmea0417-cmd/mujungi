@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a41-ddc3-7460-b9db-2755f9c875f9",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/architecture/auth.md"
+  },
+  "sha256": "437a899ec087a9fcc0cd26762b5d9f62e3d1417796f0bf7f25f1ec56a13ef60a",
+  "bytes": 38784,
+  "indexed_at": "2026-10-08T06:44:46.587Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 21565,
+    "truncated": false,
+    "source_revision": "437a899ec087a9fcc0cd26762b5d9f62e3d1417796f0bf7f25f1ec56a13ef60a"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a41-ddc3-7460-b9db-2755f9c875f9/content.md",
+  "content_sha256": "437a899ec087a9fcc0cd26762b5d9f62e3d1417796f0bf7f25f1ec56a13ef60a",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

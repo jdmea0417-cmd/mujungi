@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a41-ddbd-7169-be14-d201d519a3e6",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/ADR-008-auth-access-control.md"
+  },
+  "sha256": "f450ed059bd9eef2cffb69e634b23058969b43a925bce9d6d09c779e4b7109a7",
+  "bytes": 45147,
+  "indexed_at": "2026-10-08T06:44:46.587Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 23744,
+    "truncated": false,
+    "source_revision": "f450ed059bd9eef2cffb69e634b23058969b43a925bce9d6d09c779e4b7109a7"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a41-ddbd-7169-be14-d201d519a3e6/content.md",
+  "content_sha256": "f450ed059bd9eef2cffb69e634b23058969b43a925bce9d6d09c779e4b7109a7",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

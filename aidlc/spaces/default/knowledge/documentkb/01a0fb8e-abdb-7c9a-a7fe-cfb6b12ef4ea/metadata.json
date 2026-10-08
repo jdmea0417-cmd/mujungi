@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "01a0fb8e-abdb-7c9a-a7fe-cfb6b12ef4ea",
+  "source": {
+    "kind": "managed",
+    "path": "documents/요구사항 입출력 명세 v1.0.md:Zone.Identifier"
+  },
+  "sha256": "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe",
+  "bytes": 25,
+  "indexed_at": "2026-10-02T07:40:26.446Z",
+  "extraction": {
+    "state": "unsupported_type",
+    "detectedType": "removed"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "removed_at": "2026-10-02T07:43:45.739Z",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

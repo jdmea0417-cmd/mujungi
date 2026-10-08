@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a41-ddd2-78af-8b50-8fee34ab8a40",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/decision-log.md"
+  },
+  "sha256": "f2da7985bc82e7a7ce70f39ef0b92be9ac04a780197457c723facdff3b9d266a",
+  "bytes": 48913,
+  "indexed_at": "2026-10-08T06:44:46.587Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 27856,
+    "truncated": false,
+    "source_revision": "f2da7985bc82e7a7ce70f39ef0b92be9ac04a780197457c723facdff3b9d266a"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a41-ddd2-78af-8b50-8fee34ab8a40/content.md",
+  "content_sha256": "f2da7985bc82e7a7ce70f39ef0b92be9ac04a780197457c723facdff3b9d266a",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

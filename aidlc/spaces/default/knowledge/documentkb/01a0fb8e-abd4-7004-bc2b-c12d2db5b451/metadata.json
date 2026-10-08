@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "01a0fb8e-abd4-7004-bc2b-c12d2db5b451",
+  "source": {
+    "kind": "managed",
+    "path": "documents/기술명세서_v1.1.md"
+  },
+  "sha256": "c4d28f50dd3355e95dd106a87f8294e222749abd7ee6931366bf269481334233",
+  "bytes": 44296,
+  "indexed_at": "2026-10-02T07:40:26.446Z",
+  "extraction": {
+    "state": "unsupported_type",
+    "detectedType": "removed"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "removed_at": "2026-10-08T05:11:50.163Z",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}

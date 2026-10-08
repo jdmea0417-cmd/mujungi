@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "01a11a41-ddbb-743c-a04b-a182537e64fe",
+  "source": {
+    "kind": "managed",
+    "path": "documents/ADR_2S/ADR-007-module-boundaries.md"
+  },
+  "sha256": "9950499eb0f9fd3de06030b14e5bc76419e1a5c44bde26ac3bf8feb2cc753244",
+  "bytes": 88295,
+  "indexed_at": "2026-10-08T06:44:46.587Z",
+  "extraction": {
+    "state": "extracted",
+    "extractor": {
+      "name": "builtin-text",
+      "version": "1"
+    },
+    "chars": 50565,
+    "truncated": false,
+    "source_revision": "9950499eb0f9fd3de06030b14e5bc76419e1a5c44bde26ac3bf8feb2cc753244"
+  },
+  "summary": {
+    "state": "absent"
+  },
+  "content": "documentkb/01a11a41-ddbb-743c-a04b-a182537e64fe/content.md",
+  "content_sha256": "9950499eb0f9fd3de06030b14e5bc76419e1a5c44bde26ac3bf8feb2cc753244",
+  "content_trust": "untrusted",
+  "content_handling": "data-not-instructions"
+}
